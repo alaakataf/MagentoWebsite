@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-14T01:30:32 EET" name="Default suite" finished-at="2024-04-14T01:30:42 EET" duration-ms="10580">
+    <groups>
+    </groups>
+    <test started-at="2024-04-14T01:30:32 EET" name="Default test" finished-at="2024-04-14T01:30:42 EET" duration-ms="10580">
+      <class name="mytestcases.signup">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mytestcases.signup@73ff4fae]" started-at="2024-04-14T01:30:32 EET" name="setUp" finished-at="2024-04-14T01:30:32 EET" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="myFirsrTest()[pri:0, instance:mytestcases.signup@73ff4fae]" started-at="2024-04-14T01:30:32 EET" name="myFirsrTest" finished-at="2024-04-14T01:30:42 EET" duration-ms="10316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirsrTest -->
+      </class> <!-- mytestcases.signup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
