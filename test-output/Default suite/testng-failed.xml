@@ -5,8 +5,8 @@
     <classes>
       <class name="mytestcases.signup">
         <methods>
-          <include name="myFirsrTest"/>
           <include name="setUp"/>
+          <include name="AddOneRandomItem"/>
         </methods>
       </class> <!-- mytestcases.signup -->
     </classes>
